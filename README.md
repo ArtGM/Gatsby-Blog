@@ -1,1 +1,2 @@
-portfolio / blog made with Pro Gatsby's LevelUp Tutorials
+
+blog made with Pro Gatsby's LevelUp Tutorials
